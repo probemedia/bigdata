@@ -1,0 +1,18 @@
+
+한글파일명 깨짐 in r
+File > Reopen with Encoding... 클릭
+
+utf-8 또는 cp949
+
+https://rfriend.tistory.com/10
+
+
+파일내용 - 한글 깨짐
+Sys.setlocale("LC_CTYPE", "ko_KR.UTF-8")
+
+또는 
+
+encoding ="cp949" 또는 encoding ="UTF-8"
+read.csv("data/data01.csv", head=T, encoding="cp949")
+
+https://nittaku.tistory.com/341
