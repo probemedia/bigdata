@@ -1,15 +1,9 @@
-[TED]ÇÑ½º ·Î½½¸µ- ÀÌÁ¦²¯ º¸Áö ¸øÇß´ø ÃÖ°íÀÇ Åë°è : °ø°øµ¥ÀÌÅÍÀÇ Áß¿ä¼º
+[TED]í•œìŠ¤ ë¡œìŠ¬ë§- ì´ì œê» ë³´ì§€ ëª»í–ˆë˜ ìµœê³ ì˜ í†µê³„ : ê³µê³µë°ì´í„°ì˜ ì¤‘ìš”ì„±
 https://www.youtube.com/watch?v=NVwB_of8ZYs
 
 
-2015 ÀÎ±¸ÁÖÅÃÃÑÁ¶»ç ½ºÆä¼È ÄÜ¼­Æ®ÇÑ½º·Î½½¸µ
-https://www.youtube.com/watch?v=wyrnxef73K4
-https://www.youtube.com/watch?v=zbaqmQqKhmk
-https://www.youtube.com/watch?v=-ty38M9-2Mg
-https://www.youtube.com/watch?v=yLxgFxlA2cs
-https://www.youtube.com/watch?v=3-Qqfwa0Lw4
 
-¼¼»ó¿¡ °üÇØ ¹«ÁöÇÏÁö ¾Ê´Â ¹ı Hans Rosling
+ì„¸ìƒì— ê´€í•´ ë¬´ì§€í•˜ì§€ ì•ŠëŠ” ë²• Hans Rosling
 https://www.youtube.com/watch?v=GSwI-wUMdg0
 
 The human insights missing from big data | Tricia Wang
@@ -21,10 +15,10 @@ https://www.youtube.com/watch?v=_2u_eHHzRto
 Mosquitos, malaria and education | Bill Gates
 https://www.youtube.com/watch?v=tsgvhP07BC8
 
-[TED] ¼öÀÜ ÀÌÆ²¸°Àú : ºò µ¥ÀÌÅÍµé·Î ¿ì¸®°¡ ÇÒ ÀÏÀº ¹«¾ùÀÏ±î¿ä?
+[TED] ìˆ˜ì” ì´í‹€ë¦°ì € : ë¹… ë°ì´í„°ë“¤ë¡œ ìš°ë¦¬ê°€ í•  ì¼ì€ ë¬´ì—‡ì¼ê¹Œìš”?
 https://www.youtube.com/watch?v=AyEr3gLHZFs
-3:28~4:28 - ±İ¿¬±¤°í°¡ ¹ÌÄ£¿µÇâ
-5:05 - Æò°¡¿Í ºĞ¼®ÀÇ Ã´µµ ¹®Á¦
+3:28~4:28 - ê¸ˆì—°ê´‘ê³ ê°€ ë¯¸ì¹œì˜í–¥
+5:05 - í‰ê°€ì™€ ë¶„ì„ì˜ ì²™ë„ ë¬¸ì œ
 9:25
 
 
@@ -35,10 +29,10 @@ https://www.youtube.com/watch?v=d0yGdNEWdn0 ,  5:35, 8:40
 https://www.youtube.com/watch?v=jpe-LKn-4gM
 7:20
 
-¸ÅÀÏ »ç¸·¿¡ ³ª¹«¸¦ ½ÉÀº ³²ÀÚ. 37³â µÚ, ¼¼»óÀÌ µÚÁı¾îÁö´Ù.
+ë§¤ì¼ ì‚¬ë§‰ì— ë‚˜ë¬´ë¥¼ ì‹¬ì€ ë‚¨ì. 37ë…„ ë’¤, ì„¸ìƒì´ ë’¤ì§‘ì–´ì§€ë‹¤.
 https://www.youtube.com/watch?v=PmgeWM7ySFY
 
-³ª¹« 150¾ï ±×·ç ½É¾î, Áö±¸ÀÇ ÃàÀ» ¹Ù²Û 9»ì ²¿¸¶
+ë‚˜ë¬´ 150ì–µ ê·¸ë£¨ ì‹¬ì–´, ì§€êµ¬ì˜ ì¶•ì„ ë°”ê¾¼ 9ì‚´ ê¼¬ë§ˆ
 https://www.youtube.com/watch?v=eO0xRqvD0po
 
 
@@ -64,9 +58,12 @@ https://www.youtube.com/watch?v=eIho2S0ZahI
 The era of blind faith in big data must end | Cathy O'Neil
 https://www.youtube.com/watch?v=_2u_eHHzRto
 
-[¸Ş°¡HRD_HR ON ½ÃÁğ 3_2È¸] 3.ºòµ¥ÀÌÅÍ¸¦ È°¿ëÇÑ ±Û·Î¹ú ±â¾÷ÀÇ HR ¼º°ú »ç·Ê¿Í ½Ã»çÁ¡_LG°æÁ¦¿¬±¸¿ø ¿øÁöÇö¿¬±¸¿ø
+[ë©”ê°€HRD_HR ON ì‹œì¦Œ 3_2íšŒ] 3.ë¹…ë°ì´í„°ë¥¼ í™œìš©í•œ ê¸€ë¡œë²Œ ê¸°ì—…ì˜ HR ì„±ê³¼ ì‚¬ë¡€ì™€ ì‹œì‚¬ì _LGê²½ì œì—°êµ¬ì› ì›ì§€í˜„ì—°êµ¬ì›
 https://www.youtube.com/watch?v=xQDZWuH2ADg
 
 
 How the mysterious dark net is going mainstream | Jamie Bartlett
 https://www.youtube.com/watch?v=pzN4WGPC4kc
+
+'How To End Poverty in 15 years' Hans Rosling - BBC News
+https://www.youtube.com/watch?v=5JiYcV_mg6A
