@@ -1,0 +1,15 @@
+# 1999~2020까지 CH4배출량의 결측치 처리후 시계열 그래프 작성
+# 선형보간법을 사용한 결측치 처리
+
+df2 <- df_ghgs1[, 2:4]
+df2$CO2_ppm <- na.interp(df2$CO2_ppm)
+df2$CO2_ppm <- as.numeric(df2$CO2_ppm)
+df2$CH4_ppm <- na.interp(df2$CH4_ppm)
+df2$CH4_ppm <- as.numeric(df2$CH4_ppm)
+
+# 결측치 없는 df2데이터프레임 생성
+
+head(df2)
+
+# df2을 사용한 1999~2020까지 CH4배출량 추이 시계열 그래프
+df2 %>% ggplot(aes(x=시간, y=CH4_ppm)) + geom_line()
