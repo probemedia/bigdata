@@ -1,5 +1,8 @@
+
 # 1999~2020까지 CH4배출량의 결측치 처리후 시계열 그래프 작성
 # 선형보간법을 사용한 결측치 처리
+install.packages("forecast")
+library(forecast)
 
 df2 <- df_ghgs1[, 2:4]
 df2$CO2_ppm <- na.interp(df2$CO2_ppm)
