@@ -1,29 +1,13 @@
 수업자료
 
-2022.12.25일을 기준으로 소스코드와 다운로드 파일이 업데이트되었습니다.
+2023.02.07을 기준으로 소스코드와 다운로드 파일이 업데이트되었습니다.
 
 1. 선수학습 : bg_ds_colab.ipynb
 https://colab.research.google.com/drive/14QRMfRgnOMiFdYDr5l87ln3AqFMAR0yh?usp=sharing
 
 
-2. 공간데이터 시각화 입지분석 : project_sd.ipynb
+2. 인천시 공간데이터 시각화 입지분석 : project_sd.ipynb
 https://colab.research.google.com/drive/13Wf4lVNuQh4uiYqkB6STOPKCsbzAz6Sx?usp=sharing
 
-
-2022.12.25일 업데이트 된 내용
-- 상권데이터를 인터넷에서 다운로드하는 방식으로 소스코드 변경
-
-# 5-08-1
-# 상권데이터 인터넷을 통한 다운로드
-import urllib.request as req
-
-data = "data/commercial_area_info_data.csv"  # 저장할 파일명 
-url = "https://drive.google.com/uc?id=1ASeigsE-KdnMGHdvYOejBTf_3Zzst3FR&export=download"
-req.urlretrieve(url, data)  # 다운로드 받은 내용 파일로 저장 
-print("done")  # 다운로드 성공시 출력
-
-# 5-08-2
-# 다운받은 상권데이터 로드
-df_cd = pd.read_csv("data/commercial_area_info_data.csv")
-df_cd
-
+3. 서울시 공간데이터 시각화 입지분석 : project_sd_seoul.ipynb
+https://colab.research.google.com/drive/1WVhBcJ6xnUxPVUfcd-LnobuSplCvB2yE?usp=sharing
