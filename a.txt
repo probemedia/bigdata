@@ -1,0 +1,12 @@
+from google.colab import files
+
+df_sub_group = df_subway2.groupby("노선명").sum()  # 시각화할 데이터프레임 생성
+df_sub_group["하차총승객수"].plot(kind="bar", rot=45)  # 시각화
+plt.title("서울지하철 노선별 하차승객수")  # 그래프의 제목추가
+
+# 파일로 저장
+plt.savefig("202002_서울지하철_노선별_하차승객수.png")  # google drive에 저장
+files.download("202002_서울지하철_노선별_하차승객수.png")  # PC에 저장
+
+plt.show()  # 그래프를 화면에 표시
+plt.close()  # 객체 리소스 반환
