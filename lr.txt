@@ -40,3 +40,16 @@ result.summary()
 # CO2_ppm이 450일 경우 CH4_ppm 예측
 X_new = np.array([[1, 450]])
 result.predict(X_new)
+
+# ----
+# 다중회귀분석
+df_air4 = df_ghgs2.dropna()
+X= df_air4[["CH4_ppm", "N2O_ppm","CFC11_ppm","CFC12_ppm", "CFC113_ppm","SF6_ppm"]]
+X = sm.add_constant(X)
+y = df_air4["CO2_ppm"].values
+model1 = sm.OLS(y, X)
+result = model1.fit()
+result.summary()
+
+X_new = np.array([[1, 3000, 450, 220, 400, 50, 12]])
+result.predict(X_new)
