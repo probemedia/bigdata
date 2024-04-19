@@ -10,3 +10,33 @@ print("기울기(a):", line_fitter.coef_[0])
 print("절편(b):", line_fitter.intercept_)
 fml = "y=" + str(round(line_fitter.coef_[0], 3)) + "X+" + str(round(line_fitter.intercept_, 3))
 print(fml)
+
+# ----
+
+회귀분석 : 최소제곱법
+import statsmodels.api as sm
+import statsmodels.formula.api as smf
+from statsmodels.formula.api import ols
+model1 = ols("CH4_ppm ~ CO2_ppm", data=df_ghgs2)
+result = model1.fit()
+
+result.summary()
+
+
+result.rsquared_adj
+# ----
+sns.regplot(x="CO2_ppm", y="CH4_ppm", data=df_ghgs2)
+plt.title(fml + ", adj. rsquared=" + str(round(result.rsquared_adj,3)))
+plt.savefig("plots/CO2_CH4_산점도.png")
+
+# ---
+X = df_air3["CO2_ppm"]
+X = sm.add_constant(X)
+y = df_air3["CH4_ppm"].values
+model = sm.OLS(y, X)
+result = model.fit()
+result.summary()
+
+# CO2_ppm이 450일 경우 CH4_ppm 예측
+X_new = np.array([[1, 450]])
+result.predict(X_new)
